@@ -5,14 +5,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket%20Gadhe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanket-gadhe-81a408229/)
 [![Email](https://img.shields.io/badge/Email-sanketgadhe366@gmail.com-red?style=flat-square&logo=gmail)](mailto:sanketgadhe366@gmail.com)
 
-🚀 **Full Stack Developer** | 🎮 **Game Enthusiast** | 🌍 **Building Scalable Web Solutions**
+🚀 **Full Stack Developer | Machine Learning Enthusiast | Builder of Scalable Solutions**
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 **B.Tech in Information Technology** from S.V.K.M Institute of Technology (CGPA: 8.55)
-- 🔨 **Freelance Developer** delivering scalable and impactful solutions with a focus on user experience.
-- 🏆 Award-winning innovator with accolades in ideathons and hackathons.
+- 🔨 **Freelance Full-Stack Developer** delivering high-quality, scalable, and impactful solutions.
+- 🤖 Passionate about leveraging **machine learning** to solve real-world problems.
 
 ---
 
@@ -33,14 +33,13 @@
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### **Databases & Deployment**
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+### **Machine Learning & Tools**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -48,19 +47,20 @@
 
 ### [ResearchHub](https://github.com/SanketGadhe/ResearchHub)
 - **Tech Stack:** React, MongoDB, Tailwind CSS, Node.js, Express
-- Collaborates with researchers to post and manage over 1,000 research works, improving efficiency by 30%.
+- **Highlights:** Improved collaboration efficiency by 30%, supporting over 1,000 research posts.
 
 ### [FoodWise](https://github.com/SanketGadhe/FoodWise)
 - **Tech Stack:** MERN Stack, Gemini API
-- Tracks food expiry, reducing wastage by 25%, and uses AI for recipe suggestions.
+- **Highlights:** Reduced food wastage by 25%, and integrated AI-driven recommendations.
 
 ### [Sarthak](https://github.com/SanketGadhe/Sarthak)
 - **Tech Stack:** MERN Stack, Python APIs, AWS, Netlify
-- Enhances education for the deaf community, benefitting 630M+ individuals worldwide.
+- **Highlights:** Enhanced accessibility for the deaf and mute community, benefiting over 630M individuals globally.
 
-### [Tempest Game](https://github.com/SanketGadhe/Tempest-Game)
-- **Tech Stack:** Unity, C#
-- Designed smooth character movement mechanics and immersive levels for engaging gameplay.
+### [BodyMatrix](https://github.com/SanketGadhe/BodyMatrix)
+- **Tech Stack:** Python, OpenCV, Flask
+- **Description:** A system leveraging OpenCV to analyze and track body posture, providing fitness and wellness insights. 
+- **Impact:** Enabled real-time posture correction suggestions, promoting better health habits.
 
 ---
 
@@ -90,4 +90,4 @@
 
 ---
 
-✨ *“Empowering change with scalable and impactful solutions.”* 
+✨ *“Leveraging technology to build scalable, impactful, and accessible solutions.”* 
