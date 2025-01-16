@@ -56,11 +56,11 @@
 ### [Sarthak](https://github.com/SanketGadhe/Sarthak)
 - **Tech Stack:** MERN Stack, Python APIs, AWS, Netlify
 - **Highlights:** Enhanced accessibility for the deaf and mute community, benefiting over 630M individuals globally.
-
+  
 ### [BodyMatrix](https://github.com/SanketGadhe/BodyMatrix)
 - **Tech Stack:** Python, OpenCV, Flask
-- **Description:** A system leveraging OpenCV to analyze and track body posture, providing fitness and wellness insights. 
-- **Impact:** Enabled real-time posture correction suggestions, promoting better health habits.
+- **Description:** A cutting-edge system for cloth size measurement and virtual try-on using computer vision.
+- **Impact:** Enhanced user experience by providing accurate size recommendations and enabling virtual try-on for e-commerce platforms.
 
 ---
 
